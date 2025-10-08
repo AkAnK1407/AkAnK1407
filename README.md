@@ -68,7 +68,7 @@
 - **[hands-on-React](https://github.com/AkAnK1407/hands-on-React)** — Collection of React-based projects exploring modern hooks & patterns.  
 - **[Bhojan](https://github.com/AkAnK1407/Bhojan)** — A food-related web app showcasing full-stack development skills.  
 - **[macro-processor-](https://github.com/AkAnK1407/macro-processor-)** — A C-based macro processor implementation (two-pass assembler concept).  
-- **[Quiz-Website](https://github.com/AkAnK1407/Quiz-Website)** — Interactive quiz platform built with HTML, CSS, and JavaScript.  
+- **[Quiz-Website](https://github.com/AkAnK1407/Quiz-Website)** — Interactive quiz platform built with HTML, CSS, and JavaScript.
 
 # 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkAnK1407&theme=radical&include_all_commits=true&layout=compact)  
