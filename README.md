@@ -71,9 +71,9 @@
 - **[Quiz-Website](https://github.com/AkAnK1407/Quiz-Website)** — Interactive quiz platform built with HTML, CSS, and JavaScript.
 
 # 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkAnK1407&theme=radical&include_all_commits=true&layout=compact&cache_seconds=1800)  
-![Stats](https://github-readme-stats.vercel.app/api?username=AkAnK1407&theme=radical&include_all_commits=true&cache_seconds=1800)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkAnK1407&theme=radical&date_format=%5BY-%5Dm-%5Bd%5D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkAnK1407&theme=radical&include_all_commits=true&layout=compact)  
+![Stats](https://github-readme-stats.vercel.app/api?username=AkAnK1407&theme=radical&include_all_commits=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkAnK1407&theme=radical)
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AkAnK1407&theme=radical&no-bg=true)
