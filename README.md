@@ -80,5 +80,5 @@
 
 # 📫 Connect with Me
 - 📧 Email: akankshagaur1407@gmail.com  
-- 💼 LinkedIn: [Akanksha Gaur]((https://www.linkedin.com/in/akankshagaur14/))  
+- 💼 LinkedIn: [Akanksha Gaur](https://www.linkedin.com/in/akankshagaur14/)
 - 💻 GitHub: [AkAnK1407](https://github.com/AkAnK1407)  
